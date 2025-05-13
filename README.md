@@ -49,7 +49,3 @@ Pour la partie libre, j’ai décidé de créer un petit jeu **Tic-Tac-Toe** (mo
 
 Ce test m’a permis de revoir les bases d’algorithmique, mais aussi de structurer un petit projet front-end en utilisant des composants React fonctionnels avec gestion d’état.
 C’était l’occasion de mettre en pratique des notions comme le rendering conditionnel et une architecture simple mais propre.
-
----
-
-Merci pour ce test. J’ai pris plaisir à le faire, et j’espère que le résultat sera à la hauteur de vos attentes.
