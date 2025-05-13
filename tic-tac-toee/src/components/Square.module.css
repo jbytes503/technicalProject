@@ -1,0 +1,22 @@
+.square {
+  width: 100%; /* remplit la cellule */
+  aspect-ratio: 1 / 1; /* garde une forme carrée */
+  font-size: 2rem; /* taille du texte responsive */
+  color: #e8e5e5;
+  border: solid 1px black;
+  background-color: #1e1e1e;
+  display: flex; /* centre le X/O */
+  justify-content: center;
+  align-items: center;
+
+  padding: 0;
+  border-radius: 5;
+}
+
+.square_x {
+  background-color: red;
+}
+
+.square_o {
+  background-color: green;
+}

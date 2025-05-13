@@ -1,0 +1,29 @@
+.board {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 12px;
+}
+.grid {
+  width: 300px;
+  height: 300px;
+  display: grid;
+  gap: 1px;
+  grid-template-columns: repeat(3, 1fr);
+}
+.restart {
+  border-radius: 5px;
+  background-color: #1a1518;
+  color: #e8e5e5;
+  border: solid 1px black;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.player {
+  font-size: 1rem;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
